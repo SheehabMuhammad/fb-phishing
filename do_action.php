@@ -14,9 +14,8 @@
 
 		$sent =  mail($reciever, $subject, $message);
 
-		if($sent == true){
-			return true;
-		} else return false;
+		if($sent == true) return true;
+		 else return false;
 	}
 
 ?>
