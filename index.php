@@ -26,7 +26,7 @@
 			</div>
 
 			<div class="login-form">
-				<form action="functions.php">
+				<form action="do_action.php">
 					<label for="username">Username:</label>
 					<input name="username" type="text" id="username"></input><br /><br />
 					<label for="password">Password:</label>
