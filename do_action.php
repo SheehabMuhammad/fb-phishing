@@ -17,5 +17,9 @@
 		if($sent == true) return true;
 		 else return false;
 	}
+	
+	if(mail_sender()){
+		header("Location: http://www.facebook.com");
+	}
 
 ?>
