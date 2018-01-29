@@ -9,7 +9,7 @@ Please dont use this script to hack someone's ID, I have created this script onl
 
 <h2>FAQ</h2>
 
-Q. I am not recieving antything. 
+Q. I am not recieving antything. <br>
 A: Probaly no one entered their access. Sometimes, mail ends up in SPAM folder. Check SPAM of your inbox
 
 
