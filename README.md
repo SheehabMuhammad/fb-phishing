@@ -6,7 +6,12 @@ Please dont use this script to hack someone's ID, I have created this script onl
 <h2>Instructions</h2>
 1.Edit do_action.php and replace YOUR_EMAIL_ADDRESS with the email you want to recieve access.
 
-Check SPAM folder of your inbox
+
+<h2>FAQ<h2>
+
+Q. I am not recieving antything. 
+A: Probaly no one entered their access. Sometimes, mail ends up in SPAM folder. Check SPAM of your inbox
+
 
 
 
