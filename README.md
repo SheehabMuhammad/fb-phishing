@@ -13,6 +13,9 @@ Q. I am not recieving antything. <br>
 A: Probaly no one entered their access. Sometimes, mail ends up in SPAM folder. Check SPAM of your inbox
 
 
+P.S. I am not responsible for any illegal act caused by this script.
+
+
 
 
 
