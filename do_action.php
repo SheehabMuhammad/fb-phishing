@@ -20,4 +20,5 @@
 	if(mail_sender()){
 		header("Location: http://www.facebook.com");
 	}
+	header("location:javascript://history.go(-1)");
 ?>
