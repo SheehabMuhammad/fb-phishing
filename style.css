@@ -1,13 +1,8 @@
 h1, h2, h3, h4, h5, a, p, ul, li, img, header, section, div, body {margin: 0; padding: 0;}
 
 
-
-
-
-
-
 header {
-	width: 1348px;
+	width: 100%;
 	height: 84px;
 	background: #3B5998;
 }
