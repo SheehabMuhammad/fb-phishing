@@ -15,9 +15,8 @@ A: Probaly no one entered their access. Sometimes, mail ends up in SPAM folder. 
 
 
 
-
-P.S. I am not responsible for any illegal act done using this script. Use it with your own responsibility. 
-
+## Disclaimer
+***This tool is developed for educational purposes. It only demonstrates how phishing works. If anybody wants to gain unauthorized access to someones social media, he/she may try out this at his/her own risk. You have your own responsibilities, use it with your own responsibility and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of fb-phishing!***
 
 
 
